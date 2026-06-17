@@ -8,7 +8,7 @@ Rainbow Line
 🔥 Meet the Developer
 
 
-I'm Ali Ikram — a passionate Full Stack Web Developer, UX/UI Designer, and AI/ML Engineer focused on building modern, scalable, and visually engaging digital experiences.
+I'm Aiman_Parvez passionate Full Stack Web Developer, UX/UI Designer, and AI/ML Engineer focused on building modern, scalable, and visually engaging digital experiences.
 
 I specialize in crafting high-performance applications using technologies like React, Node.js, Next.js, and modern frontend tools, while also designing intuitive and user-friendly interfaces that enhance user experience.
 
