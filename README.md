@@ -3,7 +3,7 @@ Rainbow Line
 
 
    
-Rainbow Line
+
 
 🔥 Meet the Developer
 
@@ -33,9 +33,9 @@ Professional Responsive Designs
 CSS3 JavaScript C++ Python HTML5 Google Cloud Cloudflare Render Netlify Vercel Bootstrap React Query FastAPI NodeJS React Vue.js Vite Nodemon Node-RED jQuery Laravel Apache Prisma MariaDB Firebase MongoDB MySQL SQLite Adobe Adobe Creative Cloud Adobe Illustrator Adobe InDesign Adobe Lightroom Adobe Photoshop Adobe XD Figma Canva NumPy Pandas Matplotlib scikit-learn GitHub Git
 
 📬 Contact Me
-👤 Ali Ikram — Full‑Stack Developer
+👤 Aiman Parvez — Full‑Stack Developer
 
-📧 Email: info.aliikram57@gmail.com
+📧 Email: info.aiman.parvez789@gmail.com
 🌐 Portfolio: http://alistack.vercel.app
 🌐 Socials:
 Facebook Instagram LinkedIn X YouTube email
